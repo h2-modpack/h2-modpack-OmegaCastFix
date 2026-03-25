@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes OCast moves not counting as cast damage.",
     default  = true,
     dataMutation = true,
-    modpackModule = true,
+    modpack = "h2-modpack",
 }
 
 -- =============================================================================
